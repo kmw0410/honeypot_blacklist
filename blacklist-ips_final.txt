@@ -1,8 +1,6 @@
 #####################################
 ### Total: 7855
 ### Last updated: 24 Oct, 2025
-###
-### ⚠️ IMPORTANT: THIS REPOSITORY IS NO LOGNGER BEING UPDATED!
 #####################################
 
 1.1.253.134
